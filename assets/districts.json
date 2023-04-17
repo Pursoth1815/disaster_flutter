@@ -1,0 +1,793 @@
+[
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-ariyalur.jpg",
+    "title": "Ariyalur",
+    "subtitle": "அரியலூர்",
+    "banner": [
+      {"name": "District Collectorate", "taname": "மாவட்ட ஆட்சியரகம்", "url": "https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2019/04/2019040271.jpg" },
+      {"name": "GangaiKondaCholapuram Temple", "taname": "கங்கைகொண்ட சோழபுரம்", "url":"https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2019/04/2019040241.jpg" },
+      {"name": "Land of Cements", "taname": "சிமெண்ட் நிலம்", "url":"https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2019/04/2019040224-1.jpg" },
+      {"name": "Karaivetti Bird Sanctuary", "taname": "கரைவெட்டி பறவைகள் சரணாலயம்", "url": "https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2019/04/2019040225.jpg" }   
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://ariyalur.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://ariyalur.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://ariyalur.nic.in/tourism/tourist-places/"},
+      {"name": "Historical Monuments", "url": "https://ariyalur.nic.in/gallery/historical-monuments/"},
+      {"name": "Tourist Information", "url": "https://ariyalur.nic.in/tourism/tourist-information/"}
+    ],
+    "talinks": [
+      {"name": "அடைவது எப்பட", "url": "https://ariyalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+      {"name": "காணத்தக்க இடங்கள்", "url": "https://ariyalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "சுற்றுலாத் தலங்கள்", "url": "https://ariyalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "வரலாற்றுச் சின்னங்கள்", "url": "https://ariyalur.nic.in/ta/gallery/%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "சுற்றுலா தகவல்கள்", "url": "https://ariyalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+    ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-chennai.jpg",
+    "title": "Chennai",
+    "subtitle": "சென்னை ",
+    "banner": [
+      {"name": "Chennai International Airport", "taname": "சென்னை சர்வதேச விமான நிலையம்", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040314.jpg" },
+      {"name": "Central Railway Station", "taname": "சென்ட்ரல் இரயில் நிலையம்", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040368.jpg" },
+      {"name": "Egmore Railway Station", "taname": "எழும்பூர் ரயில் நிலையம்", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040336.jpg" },
+      {"name": "Vivekananda House", "taname": "விவேகானந்தர் இல்லம்", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040382.jpg" },
+      {"name": "Marina Beach from Light House", "taname":"கலங்கரை விளக்கிலிருந்து மெரினா கடற்கரை", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040396.jpg" },      
+      {"name": "District Collectorate", "taname":"மாவட்ட ஆட்சியரகம்", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040339.jpg" },
+      {"name": "Chennai Corporation - Ripon Building", "taname":"சென்னை கார்ப்பரேஷன் - ரிப்பன் மாளிகை", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040372.jpg" },
+      {"name": "Panoramic View Stretch of the Sandy Marina Beach", "taname": "மணல் நிரம்பிய மெரினா கடற்கரையின் அகல அழகிய காட்சி", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040325.jpg" },
+      {"name": "MGR Memorial", "taname": "எம்.ஜி.ஆர். நினைவிடம்", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040365.jpg" },
+      {"name": "Marina Beach Memorials", "taname": "நினைவகம் - மொினா கடற்கரை", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040340.jpg" },     
+      {"name": "Kapaleeshwarar Temple Pond", "taname": "கபாலீஸ்வரர் கோவில் குளம்", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040390.jpg" },
+      {"name": "Kathipara Junction", "taname": "கத்திப்பாரா சந்திப்பு", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040322.jpg" },
+      {"name": "MA Chidambaram Stadium Panorama", "taname": "எம்.எ. சிதம்பரம் விளையாட்டு அரங்கத்தின் அகல பரப்பு காட்சி", "url": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040351.jpg" },
+      {"name": "Evening View of Valluvar Kottam", "taname": "வள்ளுவர் கோட்டத்தின் மாலை காட்சி", "url":"https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2019/04/2019040388.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://chennai.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://chennai.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://chennai.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://chennai.nic.in/tourism/tourist-information/"}
+    ],
+    "talinks": [
+      {"name": "அடைவது எப்பட", "url": "https://chennai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+      {"name": "காணத்தக்க இடங்கள்", "url": "https://chennai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "சுற்றுலாத் தலங்கள்", "url": "https://chennai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "சுற்றுலா தகவல்கள்", "url": "https://chennai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+    ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-coimbatore.jpg",
+    "title": "Coimbatore",
+    "subtitle": "சென்னை",
+    "banner": [
+      {"name": "Kovai Kutralam", "taname": "கோவை குற்றாலம்", "url": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/04/2019040293.jpg" },
+      {"name": "Valparai", "taname": "வால்பாறை", "url":"https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/04/2019040278.jpg" },
+      {"name": "Aliyar Dam", "taname": "ஆழியார் அணை", "url":"https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/04/2019040211.jpg" },
+      {"name": "Collectorate Building", "taname": "மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/04/2019040239.jpg" },
+      {"name": "Ukkadam Lake", "taname": "உக்கடம் குளம்", "url": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/04/2019040297.jpg" },
+      {"name": "Sungam Bye pass Bridge", "taname": "சுங்கம் புறவழிச்சாலை பாலம்", "url": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/04/2019040211-1.jpg" },
+      {"name": "TIDEL Park", "taname": "டைடல் பார்க்", "url": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2019/09/2019091628.jpg" }  
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://coimbatore.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://coimbatore.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://coimbatore.nic.in/tourism/tourist-places/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://coimbatore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://coimbatore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "urll": "https://coimbatore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-cuddalore.jpg",
+    "title": "Cuddalore",
+    "subtitle": "சென்னை",
+    "banner": [
+      {"name": "Mangrove Forest- Pichavaram", "taname": "சதுப்பு நிலக்காடுகள் - பிச்சாவரம்", "url": "https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2018/07/2018071221.jpg" },
+      {"name": "Natarajar Temple - Chidambaram", "taname": "நடராஜர் கோவில் - சிதம்பரம்", "url":"https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2018/07/2018071266.png" },
+      {"name": "MGR Thittu - Island - Near Pichavaram", "taname": "எம்.ஜி.ஆர். திட்டு - தீவு- பிச்சாவரம் அருகில்", "url":"https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2018/07/2018071289.jpg" } 
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://cuddalore.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://cuddalore.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://cuddalore.nic.in/tourism/tourist-places/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://cuddalore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://cuddalore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://cuddalore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-dharmapuri.jpg",
+    "title": "Dharmapuri",
+    "subtitle": "தர்மபுரி",
+    "banner": [
+      {"name": "Dharmapuri Collectorate", "taname": "தர்மபுரி மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s366368270ffd51418ec58bd793f2d9b1b/uploads/2018/05/2018052545.jpg" },
+      {"name": "Hogenakkal Falls", "taname": "ஒகேனக்கல் அருவி", "url":"https://cdn.s3waas.gov.in/s366368270ffd51418ec58bd793f2d9b1b/uploads/2018/05/2018052577.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://dharmapuri.nic.in/tourism/how-to-reach/"},
+      {"name": "Holy Places", "url": "https://dharmapuri.nic.in/holy-places/"},
+      {"name": "Tourist Places", "url": "https://dharmapuri.nic.in/tourism/tourist-places/"},
+      {"name": "Historical Monuments", "url": "https://dharmapuri.nic.in/gallery/historical-monuments/"},
+      {"name": "Tourist Information", "url": "https://dharmapuri.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://dharmapuri.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "பரிசுத்த இடங்கள்", "url": "https://dharmapuri.nic.in/ta/%e0%ae%aa%e0%ae%b0%e0%ae%bf%e0%ae%9a%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://dharmapuri.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "வரலாற்றுச் சின்னங்கள்", "url": "https://dharmapuri.nic.in/ta/gallery/%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://dharmapuri.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-dindigul.jpg",
+    "title": "Dindigul",
+    "subtitle": "திண்டுக்கல்",
+    "banner": [
+      {"name": "Arulmigu Dhandayuthapani Swamy Temple, Palani", "taname": "அருள்மிகு தண்டாயுதபானி சுவாமி திருக்கோயில், பழனி", "url": "https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2019/04/2019040230.jpg" },
+      {"name": "Dindigul Fort", "taname": "திண்டுக்கல் கோட்டை", "url":"https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2019/04/2019040295.jpg" },
+      {"name": "Fruits of Dindigul", "taname": "மாவட்ட கனிகள்", "url":"https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2019/04/2019040263.jpg" },
+      {"name": "Kodaikanal Garden", "taname": "கொடைக்கானல் பூங்கா", "url": "https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2019/04/2019040287.jpg" },
+      {"name": "Kodaikanal Lake", "taname": "கொடைக்கானல் ஏரி படகு சவாரி", "url": "https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2019/04/2019040279.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://dindigul.nic.in/tourism/how-to-reach/"},     
+      {"name": "Tourist Places", "url": "https://dindigul.nic.in/tourism/tourist-places/"},    
+      {"name": "Tourist Information", "url": "https://dindigul.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://dindigul.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},  
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://dindigul.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://dindigul.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-erode.jpg",
+    "title": "Erode",
+    "subtitle": "ஈரோடு",
+    "banner": [
+      {"name": "Collectorate Erode", "taname": "மாவட்ட ஆட்சியர் அலுவகம், ஈரோடு.", "url": "https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2018/07/2018070210.jpg" },
+      {"name": "Dhimbam Forest", "taname": "திம்பம் வனப்பகுதி", "url":"https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2018/07/2018070218.jpg" },
+      {"name": "Kodiveri", "taname": "கொடிவேரி", "url":"https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2018/07/2018070267.jpg" },
+      {"name": "Bhavanisagar Dam", "taname": "பவானிசாகர் அணை", "url": "https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2018/06/2018061335.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://erode.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://erode.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://erode.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://erode.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://erode.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://erode.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://erode.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://erode.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-kancheepuram.jpg",
+    "title": "Kancheepuram",
+    "subtitle": " காஞ்சிபுரம்",
+    "banner": [
+      {"name": "Mamallapuram seashore temple", "taname": "மாமல்லபுரம் கடற்கரை கோவில்", "url": "https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2018/06/2018062688.jpg" },
+      {"name": "EKAMBARANATHAR TEMPLE", "taname": "ஏகம்பரநாதர் கோயில்", "url":"https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2018/06/2018062088.jpg" },
+      {"name": "VARADHARAJA PERUMAL TEMPLE", "taname": "வரதராஜ பெருமாள் கோயில்", "url":"https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2018/06/2018062022.jpg" },
+      {"name": "KAILASANATHAR TEMPLE", "taname": "கைலாசநாதர் கோவில்", "url": "https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2018/07/2018070567.jpg" },
+      {"name": "VEDANTHANGAL BIRDS SANCTUARY", "taname": "வேடந்தாங்கல் பறவைகள் சரணாலயம்", "url": "https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2018/07/2018070575-1.jpg" },
+      {"name": "MADURANTAKAM LAKE", "taname": "மதுராந்தகம் ஏரி", "url":"https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2018/06/2018062042.jpg" },      
+      {"name": "Athi Varadhar", "taname": "Athi Varadhar", "url":"https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2019/07/2019070444.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://kancheepuram.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://kancheepuram.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://kancheepuram.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://kancheepuram.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://kancheepuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://kancheepuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://kancheepuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://kancheepuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-kanniyakumari.jpg",
+    "title": "Kanniyakumari",
+    "subtitle": "கன்னியாகுமரி",
+    "banner": [
+      {"name": "Swamy Vivekanandar Rock Memorial", "taname": "சுவாமி விவேகானந்தர் மண்டபம்", "url": "https://cdn.s3waas.gov.in/s38fe0093bb30d6f8c31474bd0764e6ac0/uploads/2019/10/2019102423.jpg" },
+      {"name": "Vattakottai Fort and Beach", "taname": "வட்டக்கோட்டை", "url":"https://cdn.s3waas.gov.in/s38fe0093bb30d6f8c31474bd0764e6ac0/uploads/2019/10/2019102482.jpg" },
+      {"name": "Hanging Aqueduct", "taname": "தொங்கு பாலம்", "url":"https://cdn.s3waas.gov.in/s38fe0093bb30d6f8c31474bd0764e6ac0/uploads/2019/10/2019102464.jpg" },
+      {"name": "Jain Rock Cut Temple", "taname": "ஜைன மத கற்கோயில்", "url": "https://cdn.s3waas.gov.in/s38fe0093bb30d6f8c31474bd0764e6ac0/uploads/2019/03/2019032894.png" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://kanniyakumari.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://kanniyakumari.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://kanniyakumari.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://kanniyakumari.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://kanniyakumari.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://kanniyakumari.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-karur.jpg",
+    "title": "Karur",
+    "subtitle": "கரூர்",
+    "banner": [
+      {"name": "Collectorate, Karur", "taname": "மாவட்ட ஆட்சியரகம், கரூர்", "url": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2019/03/2019032699.jpg" },
+      {"name": "Arulmigu Kalyana Pasupatheswarar Temple, Karur", "taname": "அருள்மிகு கல்யாண பசுபதீஸ்வரர் ஆலயம், கரூர்", "url":"https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2019/03/2019032634.jpg" },
+      {"name": "TNPL - Kagithapuram", "taname": "டி,என்.பி.எல் - காகிதபுரம்", "url":"https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2019/03/2019032656.jpg" },
+      {"name": "Mayanur Barrage", "taname": "மாயனூர் கதவணை", "url": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2019/03/2019032610.jpg" },
+      {"name": "Industries - Cement Production-Bus Body Building-Textiles-Exports", "taname": "தொழில்கள் - சிமெண்ட் உற்பத்தி-பேருந்து கட்டமைப்பு-ஜவுளி உற்பத்தி, ஏற்றுமதி", "url": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2019/03/20190326100.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://karur.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://karur.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://karur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://karur.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://karur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://karur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://karur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://karur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-krishnagiri.jpg",
+    "title": "Krishnagiri",
+    "subtitle": "கிருஷ்ணகிரி",
+    "banner": [
+      {"name": "Collectorate Building", "taname": "மாவட்ட ஆட்சியரகம்", "url": "https://cdn.s3waas.gov.in/s37eacb532570ff6858afd2723755ff790/uploads/2019/04/2019040557.jpg" },
+      {"name": "Mango", "taname": "மாங்கனி", "url":"https://cdn.s3waas.gov.in/s37eacb532570ff6858afd2723755ff790/uploads/2019/04/2019040535.jpg" },
+      {"name": "Rose Cultivation", "taname": "ரோஜா சாகுபடி", "url":"https://cdn.s3waas.gov.in/s37eacb532570ff6858afd2723755ff790/uploads/2019/04/2019040517.jpg" },
+      {"name": "Krishnagiri Reservoir Project Dam", "taname": "கிருஷ்ணகிரி நீர்த்தேக்க திட்டம்", "url": "https://cdn.s3waas.gov.in/s37eacb532570ff6858afd2723755ff790/uploads/2019/04/2019040510.jpg" }
+    ],  
+    "links": [
+      {"name": "How to Reach", "url": "https://krishnagiri.nic.in/tourism/how-to-reach/"},
+      {"name": "Holy Places", "url": "https://krishnagiri.nic.in/holy-places/"},
+      {"name": "Tourist Places", "url": "https://krishnagiri.nic.in/tourism/tourist-places/"},
+      {"name": "Historical Monuments", "url": "https://krishnagiri.nic.in/gallery/historical-monuments/"},
+      {"name": "Tourist Information", "url": "https://krishnagiri.nic.in/tourism/tourist-information/"}
+    ],
+    "talinks": [
+      {"name": "அடைவது எப்பட", "url": "https://krishnagiri.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+      {"name": "பரிசுத்த இடங்கள்", "url": "https://krishnagiri.nic.in/ta/%e0%ae%aa%e0%ae%b0%e0%ae%bf%e0%ae%9a%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "சுற்றுலாத் தலங்கள்", "url": "https://krishnagiri.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "வரலாற்றுச் சின்னங்கள்", "url": "https://krishnagiri.nic.in/ta/gallery/%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+      {"name": "சுற்றுலா தகவல்கள்", "url": "https://krishnagiri.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+    ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-madurai.jpg",
+    "title": "Madurai",
+    "subtitle": "மதுரை",
+    "banner": [
+      {"name": "Madurai - Athens of the East", "taname": "மதுரை", "url": "https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031584.jpg" },
+      {"name": "Meenakshi Temple Towers", "taname": "மீனாட்சி அம்மன் திருக்கோவில்", "url":"https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031577.jpg" },
+      {"name": "Meenakshi Kalyanam", "taname": "", "url":"https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031564.jpg" },
+      {"name": "Meenakshi Temple Towers", "taname": "", "url": "https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031547.jpg" },
+      {"name": "Thirumalai Nayakkar Mahal", "taname": "", "url": "https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031521.jpg" },
+      {"name": "Vandiyur Mariamman Teppakulam", "taname": "", "url":"https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031539.jpg" },      
+      {"name": "Vaigai River", "taname": "", "url":"https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031510.jpg" },
+      {"name": "Kallazhagar - Chithirai Thiruvizha - Festival", "taname": "", "url": "https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031542.jpg" },
+      {"name": "Jallikattu - Bull tamingr", "taname": "", "url":"https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031522.jpg" },
+      {"name": "World Tamil Sangam - Madurai", "taname": "", "url":"https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2019/03/2019031572.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://madurai.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://madurai.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://madurai.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://madurai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://madurai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://madurai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-namakkal.jpg",
+    "title": "Namakkal",
+    "subtitle": "நாமக்கல்",
+    "banner": [
+      {"name": "NAMAKKAL COLLECTORATE", "taname": "நாமக்கல் மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3b9228e0962a78b84f3d5d92f4faa000b/uploads/2019/04/2019040364.jpg" },
+      {"name": "NAMAKKAL ROCK FORT", "taname": "நாமக்கல் மலைக்கோட்டை", "url":"https://cdn.s3waas.gov.in/s3b9228e0962a78b84f3d5d92f4faa000b/uploads/2019/04/2019040369.jpg" },
+      {"name": "KOLLI HILLS", "taname": "கொல்லி மலை", "url":"https://cdn.s3waas.gov.in/s3b9228e0962a78b84f3d5d92f4faa000b/uploads/2019/04/2019040368.jpg" },
+      {"name": "KOLLI HILLS VIEW POINT, AKASH GANGA, VALVIL ORI", "taname": "கொல்லிமலை காட்சி முனையம் , ஆகாய கங்கை நீர்வீழ்ச்சி, வல்வில் ஓரி", "url": "https://cdn.s3waas.gov.in/s3b9228e0962a78b84f3d5d92f4faa000b/uploads/2019/04/2019040345.jpg" },
+      {"name": "Jedarpalayam Dam", "taname": "ஜேடர்பாளையம் தடுப்பணை", "url": "https://cdn.s3waas.gov.in/s3b9228e0962a78b84f3d5d92f4faa000b/uploads/2019/04/2019040351.jpg" },
+      {"name": "POULTRY, POWER LOOM, LORRY BODY BUILDING", "taname": "கோழி பண்ணைகள், தறிகள், லாரி கூண்டு கட்டுதல்", "url":"https://cdn.s3waas.gov.in/s3b9228e0962a78b84f3d5d92f4faa000b/uploads/2019/04/2019040368-1.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://namakkal.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://namakkal.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://namakkal.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://namakkal.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://namakkal.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://namakkal.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-nilgiris.jpg",
+    "title": "Nilgiris",
+    "subtitle": "நீலகிரி",
+    "banner": [
+      {"name": "Mudumalai Tiger Reserve", "taname": "முதுமலை புலிகள் காப்பகம்", "url": "https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031869.jpg" },
+      {"name": "Botanical Garden, Ooty", "taname": "தாவரவியல் பூங்கா, உதகை", "url":"https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031886.jpg" },
+      {"name": "Mukurthi National Park", "taname": "முக்கூர்த்தி தேசிய பூங்கா", "url":"https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031836.jpg" },
+      {"name": "Avalanche Lake", "taname": "அவலாஞ்சி ஏரி", "url": "https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031875.jpg" },
+      {"name": "Dodabetta, Ooty", "taname": "தொட்டபெட்டா, உதகை", "url": "https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031879.jpg" },
+      {"name": "Tea Garden, Nilgiris", "taname": "நீலகிரி தேயிலை தோட்டம்", "url":"https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031869-1.jpg" },      
+      {"name": "Pykara Water Falls", "taname": "பைகாரா நீர்வீழ்ச்சி", "url":"https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2019/03/2019031881.jpg" },
+      {"name": "Ooty Boat Houses", "taname": "உதகை படகு இல்லம்", "url":"https://cdn.s3waas.gov.in/s339461a19e9eddfb385ea76b26521ea48/uploads/2018/06/2018060882.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://nilgiris.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://nilgiris.nic.in/tourism/tourist-places/"},
+      {"name": "360 Degree View", "url": "https://nilgiris.nic.in/tourism/places-of-interest/360-degree-view/"},
+      {"name": "Tourist Information", "url": "https://nilgiris.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://nilgiris.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://nilgiris.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "360 டிகிரி பார்வை", "url": "https://nilgiris.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/360-%e0%ae%9f%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%bf-%e0%ae%aa%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%af%88/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://nilgiris.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-perambalur.jpg",
+    "title": "Perambalur",
+    "subtitle": "பெரம்பலூர்",
+    "banner": [
+      {"name": "Perambalur District Collectorate", "taname": "பெரம்பலூர் மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050923.jpg" },
+      {"name": "Vishwakudi Dam", "taname": "விஸ்வகுடி அணை", "url":"https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050944.jpg" },
+      {"name": "Rajankudi Fort", "taname": "ரஞ்சன்குடி கோட்டை", "url":"https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050951.jpeg" },
+      {"name": "FOSSIL TREE", "taname": "கல் மரம்", "url": "https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050945.jpg" },
+      {"name": "SIRUVACHUR CHETTIKULAM TEMPLES", "taname": "சிறுவாச்சூர் செட்டிகுளம் கோவில்", "url": "https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050933.jpg" },
+      {"name": "VALIKANDAPURAM SIVA TEMPLE", "taname": "வாலிகண்ட புரம் சிவன் கோவில்", "url":"https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050928.jpeg" },      
+      {"name": "KOLAGANATHAM SAND QUAILS", "taname": "கொளக்காநத்தம் மணல் மேடுகள்", "url":"https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050997.jpeg" },
+      {"name": "NO. 1 IN SMALL ONION CULTIVATION IN THE STATE", "taname": "வெங்காயம் உற்பத்தியில் மாநிலத்தில் முதலிடம்", "url": "https://cdn.s3waas.gov.in/s3550a141f12de6341fba65b0ad0433500/uploads/2019/05/2019050922.jpeg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://perambalur.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://perambalur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://perambalur.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://perambalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://perambalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://perambalur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-pudukkottai.jpg",
+    "title": "Pudukkottai",
+    "subtitle": "புதுக்கோட்டை",
+    "banner": [
+      {"name": "Collectorate - District Court", "taname": "மாவட்ட ஆட்சியரகம் - மாவட்ட நீதிமன்றம்", "url": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2019/03/2019032616.jpg" },
+      {"name": "Thirumayam Fort", "taname": "திருமயம் கோட்டை", "url":"https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2019/03/2019032625.jpg" },
+      {"name": "Chithannavasal", "taname": "சித்தன்னவாசல்", "url":"https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2019/03/2019032689.jpg" },
+      {"name": "Thirumayam Temple - Pragathambal Temple - Sacred Heart Church - Kattubhava Pallivasal", "taname": "Thirumayam Temple - Pragathambal Temple - Sacred Heart Church - Kattubhava Pallivasal", "url": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2019/03/2019032687.jpg" },
+      {"name": "Manamelkudi", "taname": "மணமேல்குடி", "url": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2019/03/2019032646.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://pudukkottai.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://pudukkottai.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://pudukkottai.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://pudukkottai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://pudukkottai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://pudukkottai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-ramanathapuram.jpg",
+    "title": "Ramanathapuram",
+    "subtitle": "இராமநாதபுரம்",
+    "banner": [
+      {"name": "Dhanushkodi", "taname": "தனுஸ்கோடி", "url": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2018/02/2018022776.jpg" },
+      {"name": "Devipatinam", "taname": "தேவிப்பட்டினம்", "url":"https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2018/03/2018032153.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://ramanathapuram.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://ramanathapuram.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://ramanathapuram.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://ramanathapuram.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://ramanathapuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://ramanathapuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://ramanathapuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://ramanathapuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-salem.jpg",
+    "title": "Salem",
+    "subtitle": "சேலம்",
+    "banner": [
+      {"name": "Collectorate , Salem", "taname": "சேலம் மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2020/01/2020012312-1.jpg" },
+      {"name": "Mettur Dam", "taname": "மேட்டூர் அணை", "url":"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/01/2018012412.jpg" },
+      {"name": "Yercaud Lake", "taname": "ஏற்காடு ஏரி", "url":"https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2018/01/2018012419.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://salem.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://salem.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://salem.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://salem.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://salem.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://salem.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-sivaganga.jpg",
+    "title": "Sivaganga",
+    "subtitle": "சிவகங்கை",
+    "banner": [
+      {"name": "Keezhadi Excavation", "taname": "கீழடி அகழ்வாராய்ச்சி", "url": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061667.jpg" },
+      {"name": "Veeramangai Rani Velunachiar Memorial Hall", "taname": "வீரமங்கை இராணி வேலுநாச்சியார் நினைவு மண்டபம்", "url":"https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061623.jpg" },
+      {"name": "Kalayar Kovil", "taname": "காளையார்கோவில்", "url":"https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061614.jpg" },
+      {"name": "Manamadurai Ghatam", "taname": "மானாமதுரை கடம்", "url": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061685.jpg" },
+      {"name": "Idaikattur Church", "taname": "இடைக்காட்டூர் தேவாலயம்", "url": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061659.jpg" },
+      {"name": "Vettangudi Bird Sanctuary", "taname": "வேட்டங்குடி பறவைகள் சரணாலயம்", "url":"https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061658.jpg" },      
+      {"name": "Piranmalai Seik Oilyullah Dargah", "taname": "பிரான்மலை சேக் ஒளியுள்ள தர்கா", "url":"https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061675.jpg" },
+      {"name": "Siravayal Manjuvirattu", "taname": "சிறாவயல் மஞ்சுவிரட்டு", "url": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2018/05/2018061657.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://sivaganga.nic.in/tourism/holy-places/"},
+      {"name": "Holy Placest", "url": "https://sivaganga.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://sivaganga.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://sivaganga.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://sivaganga.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "பரிசுத்த இடங்கள்", "url": "https://sivaganga.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%aa%e0%ae%b0%e0%ae%bf%e0%ae%9a%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://sivaganga.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://sivaganga.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-thanjavur.jpg",
+    "title": "Thanjavur",
+    "subtitle": "தஞ்சாவூர்",
+    "banner": [
+      {"name": "Collector Office", "taname": "மாவட்ட ஆட்சியா் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3b7b16ecf8ca53723593894116071700c/uploads/2018/06/2018062617.jpg" },
+      {"name": "Big Temple", "taname": "பெரிய கோவில்", "url":"https://cdn.s3waas.gov.in/s3b7b16ecf8ca53723593894116071700c/uploads/2018/06/2018062614.jpg" },
+      {"name": "Agriculture", "taname": "விவசாயம்", "url":"https://cdn.s3waas.gov.in/s3b7b16ecf8ca53723593894116071700c/uploads/2018/06/2018062637.jpg" },
+      {"name": "Kallanai", "taname": "கல்லணை", "url": "https://cdn.s3waas.gov.in/s3b7b16ecf8ca53723593894116071700c/uploads/2018/07/2018071080.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://thanjavur.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://thanjavur.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://thanjavur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://thanjavur.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://thanjavur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://thanjavur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://thanjavur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://thanjavur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-theni.jpg",
+    "title": "Theni",
+    "subtitle": "தேனி",
+    "banner": [
+      {"name": "Megamalai", "taname": "மேகமலை", "url": "https://cdn.s3waas.gov.in/s39a96876e2f8f3dc4f3cf45f02c61c0c1/uploads/2019/04/2019040486.jpg" },
+      {"name": "Vaigai Dam", "taname": "வைகை அணை", "url":"https://cdn.s3waas.gov.in/s39a96876e2f8f3dc4f3cf45f02c61c0c1/uploads/2019/04/2019040472.jpg" },
+      {"name": "Sothuparai Dam", "taname": "சோத்துப்பாறை அணை", "url":"https://cdn.s3waas.gov.in/s39a96876e2f8f3dc4f3cf45f02c61c0c1/uploads/2019/04/2019040416.jpg" },
+      {"name": "Theni", "taname": "தேனி", "url": "https://cdn.s3waas.gov.in/s39a96876e2f8f3dc4f3cf45f02c61c0c1/uploads/2019/04/2019040421.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://theni.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://theni.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://theni.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://theni.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://theni.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://theni.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-thoothukudi.jpg",
+    "title": "Thoothukudi",
+    "subtitle": "தூத்துக்குடி",
+    "banner": [
+      {"name": "Arulmigu Subramaniya Swamy Temple, Tiruchendur", "taname": "அருள்மிகு சுப்ரமணிய சுவாமி கோயில்,திருச்செந்தூர்", "url": "https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032618.jpg" },
+      {"name": "Jain Carvings in Kazhugumalai", "taname": "ஜெயின் சிற்பங்கள்,கழுகுமலை", "url":"https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032688.jpg" },
+      {"name": "Saltern, Thoothukudi", "taname": "உப்பளம், தூத்துக்குடி", "url":"https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032625.jpg" },
+      {"name": "Mayura Thottam (Peacock Garden),Ottapidaram", "taname": "மயில் தோட்டம், ஓட்டப்பிடாரம்", "url": "https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032649.jpg" },
+      {"name": "Veerapandia Kattabomman fort in Panchalankurichi", "taname": "வீரபாண்டிய கட்டபொம்மன் கோட்டை, பாஞ்சாலங்குறிச்சி", "url": "https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032651.jpg" },
+      {"name": "Our Lady of Snows Shrine Basilica(Panimayamatha)church", "taname": "தூய பனிமய மாதா பேராலயம், தூத்துக்குடி", "url":"https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032613.jpg" },      
+      {"name": "V.O.Chidambaram Port Trust", "taname": "வ. உ. சிதம்பரனார் துறைமுகம், தூத்துக்குடி", "url":"https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032624.jpg" },
+      {"name": "Black Buck Deer Sanctuary, Vallanadu", "taname": "வெளிமான் காப்பகம், வல்லநாடு", "url": "https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032627.jpg" },
+      {"name": "Mahakavi Subramanya Bharathiyar Manimandapam, Ettayapuram", "taname": "மகாகவி சுப்பிரமணிய பாரதியார் மணி மண்டபம், எட்டயபுரம்", "url": "https://cdn.s3waas.gov.in/s3019d385eb67632a7e958e23f24bd07d7/uploads/2019/03/2019032667.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://thoothukudi.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://thoothukudi.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://thoothukudi.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://thoothukudi.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://thoothukudi.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://thoothukudi.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://thoothukudi.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://thoothukudi.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-tiruchirappalli.jpg",
+    "title": "Tiruchirappalli",
+    "subtitle": "திருச்சிராப்பள்ளி",
+    "banner": [
+      {"name": "District Collector Office", "taname": "மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033049.jpg" },
+      {"name": "National Institute of Technology - Tiruchirappalli", "taname": "தேசிய தொழில்நுட்பக் கழகம் , திருச்சிராப்பள்ளி", "url":"https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033085.jpg" },
+      {"name": "Indian Institute of Management - Tiruchirappalli", "taname": "இந்திய மேலாண்மைக் கழகம் , திருச்சிராப்பள்ளி", "url":"https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033088.jpg" },
+      {"name": "Tiruchirappalli Junction", "taname": "திருச்சிராப்பள்ளி சந்திப்பு", "url": "https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033055.jpg" },
+      {"name": "Srirangam", "taname": "திருவரங்கம் கோயில்", "url": "https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033093.jpg" },
+      {"name": "Rock Fort", "taname": "மலைக்கோட்டை", "url":"https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033032.jpg" },      
+      {"name": "Srirangam Raja Goupram", "taname": "திருவரங்கம் கோயில் இராஜகோபுரம்", "url":"https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2019/03/2019033079.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://tiruchirappalli.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://tiruchirappalli.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://tiruchirappalli.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://tiruchirappalli.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://tiruchirappalli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://tiruchirappalli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://tiruchirappalli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://tiruchirappalli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-tirunelveli.jpg",
+    "title": "Tirunelveli",
+    "subtitle": "திருநெல்வேலி",
+    "banner": [
+      {"name": "Pottalpudur Dargah", "taname": "பொட்டல்புதூா் தா்கா", "url": "https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/08/2019040567.jpg" },
+      {"name": "Uvari Kappal Matha Church", "taname": "உவாி கப்பல் மாதா தேவாலயம்", "url": "https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/08/2019040567-1.jpg" },
+      {"name": "Nellaiappar Temple", "taname": "நெல்லையப்பா் கோயில்", "url":"https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/08/2019040518.jpg" },
+      {"name": "Manjolai", "taname": "மாஞ்சோலை", "url": "https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/08/2019040599.jpg" },
+      {"name": "Manimuthar Dam", "taname": "மணிமுத்தாறு அணை", "url": "https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/06/2019040554.jpg" },
+      {"name": "Kudan Kulam Nuclear Power Plant", "taname": "கூடன்குளம் அணுமின் நிலையம்", "url":"https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/06/2019040570.jpg" },      
+      {"name": "Thamirabarani River", "taname": "தாமிரபரணி ஆறு", "url":"https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2018/06/2019040598.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://tirunelveli.nic.in/tourism/how-to-reach/"},
+      {"name": "Wild Life", "url": "https://tirunelveli.nic.in/hill-places/"},
+      {"name": "Tourist Places", "url": "https://ariyalur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://tirunelveli.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://tirunelveli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "வன உயிரினம்", "url": "https://tirunelveli.nic.in/ta/%e0%ae%b5%e0%ae%a9-%e0%ae%89%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%ae%ae%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://tirunelveli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://tirunelveli.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-tiruppur.jpg",
+    "title": "Tiruppur",
+    "subtitle": "திருப்பூர்",
+    "banner": [
+      {"name": "Temples", "taname": "கோயில்கள்", "url": "https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2018/03/2018032819.jpg" },
+      {"name": "Sivanmalai Temple", "taname": "சிவன்மலை கோயில்", "url":"https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2018/06/2018061373.jpg" },
+      {"name": "Thirumoorthi Dam", "taname": "திருமூர்த்தி அணை", "url":"https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2018/03/2018032634-1.jpg" },
+      {"name": "Textile", "taname": "பின்னலடை", "url": "https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2018/03/2018032872.jpg" },
+      {"name": "Kangayam Bulls", "taname": "காங்கேயம் காளை", "url": "https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2018/04/2018040235.jpg" },
+      {"name": "Agricultural", "taname": "வேளாண்மை", "url":"https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2018/04/2018040249.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://tiruppur.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://tiruppur.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://tiruppur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://tiruppur.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://tiruppur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://tiruppur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://tiruppur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://tiruppur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-tiruvallur.jpg",
+    "title": "Tiruvallur",
+    "subtitle": "திருவள்ளூர்",
+    "banner": [
+      {"name": "District Collectorate", "taname": "மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/04/2018042654.jpg" },
+      {"name": "Poondi Reservoir", "taname": "பூண்டி நீர்த்தேக்கம்", "url":"https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/03/2018032217.jpg" },
+      {"name": "Veeraraghavar Temple Pond", "taname": "வீரராகவர் கோயில் குளம்", "url":"https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/05/2018050156.jpg" },
+      {"name": "Tiruttani Murugan Temple", "taname": "திருத்தணி முருகன் கோயில்", "url": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/05/2018050170.jpg" },
+      {"name": "Saravana Poikai, Arulmigu Subramaniya Swami Temple, Tiruttani", "taname": "சரவணபொய்கை, அருள்மிகு சுப்பிரமணிய சுவாமி கோவில், திருத்தணி", "url": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/05/2018050129.jpg" },
+      {"name": "Murugan Temple, Tiruttani", "taname": "முருகன் கோயில், திருத்தணி", "url":"https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/05/2018050131.jpg" }, 
+      {"name": "Light House Front View, Pulicat", "taname": "கலங்கரை விளக்கம் முன் பக்கம், பழவேற்காடு", "url":"https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/04/2018042646.jpg" },
+      {"name": "Light House Sea View, Pulicat", "taname": "கலங்கரை விளக்கம் கடல் பக்கத் தோற்றம் , பழவேற்காடு", "url": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/04/2018042664.jpg" },
+      {"name": "Pulicat Jetty", "taname": "பழவேற்காட்டில் உள்ள் படகுத்துறை", "url": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/04/2018042692.jpg" },
+      {"name": "Pulicat Lake", "taname": "பழவேற்காடு ஏரி", "url":"https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/04/2018042696.jpg" },
+      {"name": "Pulicat Lake", "taname": "பழவேற்காடு ஏரி", "url":"https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2018/04/2018042640.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://tiruvallur.nic.in/tourism/how-to-reach/"},
+      {"name": "Tourist Places", "url": "https://tiruvallur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://tiruvallur.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://tiruvallur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://tiruvallur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://tiruvallur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-tiruvannamalai.jpg",
+    "title": "Tiruvannamalai",
+    "subtitle": "திருவண்ணாமலை", 
+    "banner": [
+      {"name": "Annamalaiyar Temple", "taname": "அண்ணாமலையார் கோவில்", "url":"https://cdn.s3waas.gov.in/s318997733ec258a9fcaf239cc55d53363/uploads/2018/04/2018040639.jpg" },
+      {"name": "HILLS", "taname": "மலை", "url":"https://cdn.s3waas.gov.in/s318997733ec258a9fcaf239cc55d53363/uploads/2018/03/2018032798.jpg" },
+      {"name": "JAWADHU HILLS", "taname": "ஜவ்வாதுமலை", "url": "https://cdn.s3waas.gov.in/s318997733ec258a9fcaf239cc55d53363/uploads/2018/03/2018032735.jpg" },
+      {"name": "SATHANUR DAM", "taname": "சாத்தனூர் அணை", "url": "https://cdn.s3waas.gov.in/s318997733ec258a9fcaf239cc55d53363/uploads/2018/03/2018032674.jpg" },
+      {"name": "BEEMAN FALLS", "taname": "பீமன் நீர்வீழ்ச்சி", "url":"https://cdn.s3waas.gov.in/s318997733ec258a9fcaf239cc55d53363/uploads/2018/05/2018052378.jpg" },
+      {"name": "COLLECTORATE", "taname": "மாவட்ட ஆட்சியரகம்", "url": "https://cdn.s3waas.gov.in/s318997733ec258a9fcaf239cc55d53363/uploads/2018/06/2018061140.jpg" }
+    ],  
+    "links": [
+      {"name": "How to Reach", "url": "https://tiruvannamalai.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://tiruvannamalai.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://tiruvannamalai.nic.in/tourism/tourist-places/"},
+      {"name": "Historical Monuments", "url": "https://tiruvannamalai.nic.in/gallery/historical-monuments/"},
+      {"name": "Tourist Information", "url": "https://tiruvannamalai.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://tiruvannamalai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://tiruvannamalai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://tiruvannamalai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "வரலாற்றுச் சின்னங்கள்", "url": "https://tiruvannamalai.nic.in/ta/gallery/%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://tiruvannamalai.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-tiruvarur.jpg",
+    "title": "Tiruvarur",
+    "subtitle": "திருவாரூர்",
+    "banner": [
+      {"name": "Thiyagarasar Temple and Pond", "taname": "திருவாரூர் தியாகராசர் கோவிலும் குளமும்", "url": "https://cdn.s3waas.gov.in/s3e46de7e1bcaaced9a54f1e9d0d2f800d/uploads/2018/04/2018041060.jpg" },
+      {"name": "Vennaru River Needamangalam", "taname": "வெண்ணாறு, நீடாமங்கலம்", "url":"https://cdn.s3waas.gov.in/s3e46de7e1bcaaced9a54f1e9d0d2f800d/uploads/2018/04/2018041047.jpg" },
+      {"name": "Uthayamarthandapuram Bird Sanctuary", "taname": "உதயமார்த்தாண்டபுரம் பறவையகம்", "url":"https://cdn.s3waas.gov.in/s3e46de7e1bcaaced9a54f1e9d0d2f800d/uploads/2018/04/2018041084.jpg" },
+      {"name": "District Collectorate", "taname": "மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3e46de7e1bcaaced9a54f1e9d0d2f800d/uploads/2018/04/2018041126.jpg" },
+      {"name": "Muthupettai Lagoon", "taname": "முத்துப்பேட்டை சதுப்பு நில காடுகள்", "url": "https://cdn.s3waas.gov.in/s3e46de7e1bcaaced9a54f1e9d0d2f800d/uploads/2018/04/2018041115.jpg" },
+      {"name": "Vaduvoor Bird Sanctuary", "taname": "வடுவூர் பறவையகம்", "url":"https://cdn.s3waas.gov.in/s3e46de7e1bcaaced9a54f1e9d0d2f800d/uploads/2018/04/2018041165.jpg" }
+    ], 
+    "links": [
+      {"name": "How to Reach", "url": "https://tiruvarur.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://tiruvarur.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://tiruvarur.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://tiruvarur.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://tiruvarur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://tiruvarur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://tiruvarur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://tiruvarur.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-vellore.jpg",
+    "title": "Vellore",
+    "subtitle": "வேலூர்",
+    "banner": [
+      {"name": "VELLORE FORT", "taname": "வேலூர் கோட்டை", "url": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040890.jpg" },
+      {"name": "SOMANATHAR TEMPLE, MELPADI", "taname": "", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040834.jpg" },
+      {"name": "JAIN THIRTHANGARA STATUE, VILAPAKKAM", "taname": "", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040836.jpg" },
+      {"name": "VILAPAKKAM INSCRIPTIONS", "taname": "", "url": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040886.jpg" },
+      {"name": "ARINJAYA CHOLEESHWARAM TEMPLE, MELPADI", "taname": "", "url": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040842.jpg" },
+      {"name": "YELAGIRI HILLS", "taname": "", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040872-1.jpg" },
+      {"name": "JAIN CAVE, VALLIMALAI", "taname": "", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040872-2.jpg" },
+      {"name": "AMIRTHI ZOOLOGICAL PARK", "taname": "அமிர்தி விலங்கியல் பூங்கா", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040884.jpg" },
+      {"name": "DELHI GATE, ARCOT", "taname": "", "url": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040838-1.jpg" },
+      {"name": "ARCOT FORT", "taname": "", "url": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040843-1.jpg" },
+      {"name": "MUTHU MANDAPAM", "taname": "", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040851.jpg" },
+      {"name": "GOVERNMENT MUSEUM, VELLORE", "taname": "", "url":"https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040825.jpg" },
+      {"name": "SRIPURAM GOLDEN TEMPLE", "taname": "ஸ்ரீபுரம் பொற்கோயில்", "url": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2019/04/2019040828.jpg" }   
+    ],
+  
+    "links": [
+      {"name": "How to Reach", "url": "https://vellore.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://vellore.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://vellore.nic.in/tourism/tourist-places/"},
+      {"name": "Historical Monuments", "url": "https://vellore.nic.in/gallery/historical-monuments/"},
+      {"name": "Tourist Information", "url": "https://vellore.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://vellore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://vellore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://vellore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "வரலாற்றுச் சின்னங்கள்", "url": "https://vellore.nic.in/ta/gallery/%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://vellore.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-viluppuram.jpg",
+    "title": "Viluppuram",
+    "subtitle": "விழுப்புரம்",
+    "banner": [
+      {"name": "District Collectorate", "taname": "மாவட்ட ஆட்சியர் அலுவலகம்", "url": "https://cdn.s3waas.gov.in/s3e44fea3bec53bcea3b7513ccef5857ac/uploads/2018/06/2018062741.jpg" },
+      {"name": "Aurovile Matrimandir", "taname": "ஆரோவில் மாத்ரிமந்திர்", "url":"https://cdn.s3waas.gov.in/s3e44fea3bec53bcea3b7513ccef5857ac/uploads/2018/04/2018041814.jpg" },
+      {"name": "Veedur Dam", "taname": "வீடூர் அணை", "url":"https://cdn.s3waas.gov.in/s3e44fea3bec53bcea3b7513ccef5857ac/uploads/2018/04/2018041857.jpg" },
+      {"name": "Gingee Fort", "taname": "செஞ்சி கோட்டை", "url": "https://cdn.s3waas.gov.in/s3e44fea3bec53bcea3b7513ccef5857ac/uploads/2018/04/2018041870.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://viluppuram.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://viluppuram.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://viluppuram.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://viluppuram.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://viluppuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://viluppuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://viluppuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://viluppuram.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-virudhunagar.jpg",
+    "title": "Virudhunagar",
+    "subtitle": "விருதுநகர்",
+    "banner": [
+      {"name": "PILAVAKKAL DAM / ANAIKUTTAM DAM", "taname": "பிளவக்கல் அணை / ஆனைக்குட்டம் அணை", "url": "https://cdn.s3waas.gov.in/s3c86a7ee3d8ef0b551ed58e354a836f2b/uploads/2018/06/2018061259.png" },
+      {"name": "Kalvi Thandhai k. Kamarajar Illam Virudhunagar", "taname": "கல்வித்தந்தை கு. காமராஜ் இல்லம் விருதுநகர்", "url":"https://cdn.s3waas.gov.in/s3c86a7ee3d8ef0b551ed58e354a836f2b/uploads/2018/06/2018061241.png" },
+      {"name": "Matches Industry, Sivakasi", "taname": "தீப்பெட்டி தொழிற்சாலை", "url":"https://cdn.s3waas.gov.in/s3c86a7ee3d8ef0b551ed58e354a836f2b/uploads/2018/06/2018061220.png" },
+      {"name": "Crackers Manufacturing, Sivakasi", "taname": "பட்டாசு தொழிற்சாலை", "url": "https://cdn.s3waas.gov.in/s3c86a7ee3d8ef0b551ed58e354a836f2b/uploads/2018/06/2018061239.png" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://virudhunagar.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://virudhunagar.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://virudhunagar.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://virudhunagar.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://virudhunagar.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://virudhunagar.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://virudhunagar.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://virudhunagar.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  },
+  {
+    "photo": "https://tamilnadu.s3waas.gov.in/assets/images/district-nagapattinam.jpg",
+    "title": "Nagapattinam",
+    "subtitle": "நாகப்பட்டினம்",
+    "banner": [
+      {"name": "MARINE FISHING", "taname": "கடல் மீன்பிடி துறைமுகம்", "url": "https://cdn.s3waas.gov.in/s3c203d8a151612acf12457e4d67635a95/uploads/2019/04/2019040227.jpg" },
+      {"name": "DANISH FORT", "taname": "டேனிஷ் கோட்டை", "url":"https://cdn.s3waas.gov.in/s3c203d8a151612acf12457e4d67635a95/uploads/2019/04/2019040271.jpg" },
+      {"name": "KODIYAKARAI SANCTUARY", "taname": "கோடியகரை சரணாலயம்", "url":"https://cdn.s3waas.gov.in/s3c203d8a151612acf12457e4d67635a95/uploads/2019/04/2019040237.jpg" }
+    ],
+    "links": [
+      {"name": "How to Reach", "url": "https://nagapattinam.nic.in/tourism/how-to-reach/"},
+      {"name": "Places of Interest", "url": "https://nagapattinam.nic.in/tourism/places-of-interest/"},
+      {"name": "Tourist Places", "url": "https://nagapattinam.nic.in/tourism/tourist-places/"},
+      {"name": "Tourist Information", "url": "https://nagapattinam.nic.in/tourism/tourist-information/"}
+  ],
+  "talinks": [
+    {"name": "அடைவது எப்பட", "url": "https://nagapattinam.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%85%e0%ae%9f%e0%af%88%e0%ae%b5%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%ae%bf/"},
+    {"name": "காணத்தக்க இடங்கள்", "url": "https://nagapattinam.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%95%e0%af%8d%e0%ae%95-%e0%ae%87%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலாத் தலங்கள்", "url": "https://nagapattinam.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"},
+    {"name": "சுற்றுலா தகவல்கள்", "url": "https://nagapattinam.nic.in/ta/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be/%e0%ae%9a%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%b2%e0%ae%be-%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d/"}
+  ]
+  }
+]
+  
